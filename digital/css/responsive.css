@@ -1,0 +1,12 @@
+@media (max-width:575px) {
+    /* header{
+        display: block;
+    } */
+    .social-media{
+        display: none;
+    }
+    .navbar{
+        display: none;
+    }
+
+}
